@@ -20,7 +20,7 @@ Pour lancer le programme et générer un diagramme solaire, ouvrez `main.py` dan
 ### Exemple :  
 Dans `main.py` :  
 ```python
-latitude = 48.85     # Paris
-longitude = 2.35
+latitude = 40.4167047     # Madrid
+longitude = -3.7035825
 ```
-![Diagramme solaire](./assets/oslo.png)
+![Diagramme solaire](Madrid.png)
